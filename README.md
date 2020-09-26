@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - 📚 Estudante de desenvolvimento web e mobile
 - 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL e MongoDB.
 - 🎯 Objetivo: me tornar um desenvolvedor full stack!
-- 📫 Como me contactar: diegoferreira1964@hotmail.com
+- 📫 Como me contactar: diegoferreira1964@gmail.com
