@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 
-- 👨‍💻 Técnico em montagem, manutenção e suporte em informática pelo Senac RJ
+- 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
 - 📖 Aluno na graduação de Sistema de Informação pela Universidade Estácio de Sá
 - 📚 Estudante de desenvolvimento web e mobile
 - 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL e MongoDB.
