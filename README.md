@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
 
-## Anailsta de Suporte JR e estudante em desenvolvimento web e mobile.
+## Anailsta de suporte JR e estudante em desenvolvimento web e mobile.
 
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - 📚 Estudante de desenvolvimento web e mobile
 - 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL e MongoDB.
 - 🎯 Objetivo: Torna-me um desenvolvedor Javascript
-- 📫 Como me contactar: diegoferreira1964@gmail.com 
+- 📫 Contato: diegoferreira1964@gmail.com 
