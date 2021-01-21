@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
 
-## Anailsta de suporte JR e estudante em desenvolvimento web e mobile.
+## Anailsta de Suporte JR e estudante em desenvolvimento web e mobile.
 
 - 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
-- 📖 Aluno na graduação de Sistema de Informação pela Universidade Estácio de Sá
+- 📖 Aluno na graduação de Sistema de Informação pela Universidade Estácio de Sá (7º Periodo)
 - 📚 Estudante de desenvolvimento web e mobile
 - 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, HTML, CSS, MySQL, PostgreSQL e MongoDB.
 - 🎯 Objetivo: Torna-me um desenvolvedor Javascript
-- 📫 Contato: diegoferreira1964@gmail.com 
+- 📫 Contato: diegoferreira1964@gmail.com
