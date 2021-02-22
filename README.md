@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
 
-## Anailsta de Suporte JR buscando conhecimento em desenvolvimento de sistemas
+## Analista de Suporte JR buscando conhecimento em desenvolvimento de sistemas
 
 - 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
 - 📖 Aluno na graduação de Sistema de Informação pela Universidade Estácio de Sá (7º Periodo)
