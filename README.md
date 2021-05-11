@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
 - 🎓 Aluno da graduação de Sistema de Informação pela Universidade Estácio de Sá (7º Periodo)
-- 📖 Aluno do bootcamp Ignite (Rocketseat) na trilha de Node.Js
-- 📖 Aluno do bootcamp Ignite (Rocketseat) na trilha de React.JS
-- 📚 Estudante de desenvolvimento backend, frontend e mobile
-- 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, HTML5, CSS3, MySQL, PostgreSQL e MongoDB.
-- 🎯 Objetivo: Se tornar um desenvolvedor Full stack mas para isso estou começando pelo backend
+- 🗄  Aluno do bootcamp Ignite (Rocketseat) na trilha de Node.Js
+- 💻 Aluno do bootcamp Ignite (Rocketseat) na trilha de React.JS
+- 📚 Estudante de desenvolvimento backend e frontend
+- 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, MySQL, PostgreSQL e MongoDB.
+- 🎯 Objetivo: Me tornar um desenvolvedor Full stack
 - 📫 Contato: diegoferreira1964@gmail.com
