@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ## Analista de Suporte JR e um estudante de progamação
 
 - 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
-- 🎓 Aluno da graduação de Sistema de Informação pela Universidade Estácio de Sá (7º Periodo)
-- 💻 Formado no bootcamp Ignite (Rocketseat) na trilha de Node.Js
-- 💻 Aluno do bootcamp Ignite (Rocketseat) na trilha de React.JS
+- 🎓 Aluno da graduação de Sistema de Informação pela Universidade Estácio de Sá (8º Periodo)
+- 💻 Formado no bootcamp Ignite (Rocketseat) na trilha de Node.Js e React.JS
+- 💻 Aluno do bootcamp Ignite (Rocketseat) na trilha de React Native
 - 📚 Estudante de desenvolvimento backend e frontend
 - 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, MySQL, PostgreSQL e MongoDB.
 - 🎯 Objetivo: Me tornar um desenvolvedor Full stack
