@@ -1,29 +1,32 @@
-<!--
-**diego64/diego64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá... eu sou Diego Ferreira 👋
 
-Here are some ideas to get you started:
+<div>
+    Oi tudo bem ? Muito prazer meu nome é Diego Ferreira e sou um amante de programação e estudante da área desde 2019. Tenho ensino superior completo e bootcamps da Rockseat (Node, React e React Native) e busco um oporunidade na área de desenvolvimento de sistemas
+ 
+</div>
+ 
+ ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there 👋 I'm Diego Ferreira L.G.Oliveira
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
-
-## Analista de Suporte JR e um estudante de progamação
-
-- 👨‍💻 Técnico em manutenção e suporte em informática pelo Senac RJ
-- 🎓 Aluno da graduação de Sistema de Informação pela Universidade Estácio de Sá (8º Periodo)
-- 💻 Formado no bootcamp Ignite (Rocketseat) na trilha de Node.Js e React.JS
-- 💻 Aluno do bootcamp Ignite (Rocketseat) na trilha de React Native
-- 📚 Estudante de desenvolvimento backend e frontend
-- 📡 Techs: Node.JS, React.JS, React Native, JavaScript, TypeScript, MySQL, PostgreSQL e MongoDB.
-- 🎯 Objetivo: Me tornar um desenvolvedor Full stack
-- 📫 Contato: diegoferreira1964@gmail.com
+<div align="center">
+  <a href="https://github.com/diegoferreiralgo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego64&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+</div>
+  
+  ##
+  
+  <div> 
+  <a href = "diegoferreira1964@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-ferreira-a60a8a161" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
