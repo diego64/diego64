@@ -1,7 +1,7 @@
-### Olá... eu sou Diego Ferreira 👋
+### Olá tudo bem? Me chamo Diego Ferreira 👋
 
 <div>
-    Oi tudo bem ? Muito prazer, meu nome é Diego Ferreira e sou um amante de tecnologia e programação. Tenho ensino técnico (Manutenção e suporte) e superior completo (Sistema de Informação), bootcamps da Rockseat (Node, React e React Native), crio alguns projetos mobile no figma e busco uma oporunidade na área de desenvolvimento de sistemas.
+    Muito prazer, meu nome é Diego Ferreira e sou um amante de tecnologia e programação. Tenho ensino técnico (Manutenção e suporte) e superior completo (Sistema de Informação), bootcamps da Rockseat (Node, React e React Native), crio alguns projetos mobile no figma e busco uma oporunidade na área de desenvolvimento de sistemas.
  
 </div>
  
