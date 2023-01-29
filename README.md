@@ -7,7 +7,7 @@ I’m a PL Support Analyst. Currently I'm working as a Support Analyst at [**JMM
 
   <img align="right" alt="gif" height="100" style="border-radius:30px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I have completed technical education (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by Rocketseat and I'm looking for an opportunity in the development area.</p>
+<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I completed technical training (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by Rocketseat, currently Graduate student (Data Analysis) and looking for an opportunity in the development area.</p>
 
 ---       
 
