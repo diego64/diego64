@@ -4,7 +4,7 @@ I'm a PL Support Analyst and I'm currently working as a Support Analyst at [**JM
 
   <img align="right" alt="gif" height="100" style="border-radius:30px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I completed technical training (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by Rocketseat, currently Postgraduate student (Data Analysis) and looking for an opportunity in the area of systems development....</p>
+<p style="margin-top:40px">Hello how are you? Nice to meet you, my name is Diego Ferreira and I'm passionate about technology... I completed technical training (Maintenance and support), graduation (Information System), Ignite bootcamps (Node, React and React Native) taught by Rocketseat (Including revised and updated courses) and a postgraduate degree in Data Analysis and looking for an opportunity in the area of systems development....</p>
 
 ---       
 
@@ -21,7 +21,6 @@ I'm a PL Support Analyst and I'm currently working as a Support Analyst at [**JM
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
 
 ---       
