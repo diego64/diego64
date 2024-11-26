@@ -1,10 +1,8 @@
 ### Hi, I'm Diego Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a PL Support Analyst and I'm currently working as a Support Analyst at [**JMM**](https://www.linkedin.com/company/missoes-mundiais/mycompany/).
-
   <img align="right" alt="gif" height="100" style="border-radius:30px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p style="margin-top:40px">Good morning, good afternoon, good evening, how are you? Nice to meet you, my name is Diego Ferreira and I am passionate about technology... Since 2019 I have been studying JS-based technologies and I have specialized in Node.js and React.JS. As a technology professional, I am always studying and updating myself on new tools and frameworks that help in the development of systems.</p>
+<p style="margin-top:40px">With 10 years of experience in N1 and N2 support, I dedicate my career to solving problems and delivering effective solutions for various technological demands. In addition, I have a passion for developing small projects using JavaScript-based technologies, exploring the power of this language to create practical and innovative solutions.</p>
 
 ---       
 
