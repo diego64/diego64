@@ -21,9 +21,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----       
-
-### :hammer_and_wrench: 💬 Find me elsewhere :
-   
-   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-ferreira-a60a8a161/)](https://www.linkedin.com/in/diego-ferreira-a60a8a161/) 
-   [![Gmail Badge](https://img.shields.io/badge/-diegoferreira1964@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoferreira1964@gmail.com)](mailto:diegoferreira1964@gmail.com)
+---
