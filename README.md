@@ -2,7 +2,10 @@
 
   <img align="right" alt="gif" height="100" style="border-radius:30px;" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p style="margin-top:40px">With 10 years of experience in N1 and N2 support, I dedicate my career to solving problems and delivering effective solutions for various technological demands. In addition, I have a passion for developing small projects using JavaScript-based technologies, exploring the power of this language to create practical and innovative solutions.</p>
+<p style="margin-top:40px">With 10 years of experience in N1 and N2 support, I dedicate my career to solving problems and delivering effective solutions for various technological demands. In addition, I have a passion for developing small projects using JavaScript-based technologies, exploring the power of this language to create practical and innovative solutions.
+
+I am always open to new challenges and opportunities.
+</p>
 
 ---       
 
