@@ -35,6 +35,6 @@ Tools and Technologies
 DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,alpinejs" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes" />
   </a>
 </p>
