@@ -14,14 +14,14 @@ I am always open to new challenges and opportunities.
 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,bun" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react" />
   </a>
 </p>
 
 Data
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis" />
   </a>
 </p>
 
@@ -35,6 +35,6 @@ Tools and Technologies
 DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,githubactions" />
   </a>
 </p>
