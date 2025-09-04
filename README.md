@@ -4,9 +4,7 @@
 
 ### Hi, I'm Diego Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-<p style="margin-top:40px">With 10 years of experience in N1 and N2 support, I dedicate my career to solving problems and delivering effective solutions for various technological demands. In addition, I have a passion for developing small projects using JavaScript-based technologies, exploring the power of this language to create practical and innovative solutions.
-
-I am always open to new challenges and opportunities.
+<p style="margin-top:40px">I've been working in technology for about 10 years, working in infrastructure and networking. In recent years, I've specialized in JS technologies for both backend and frontend, as well as DevOps, striving to create the best solutions to help people solve their problems through technology.
 </p>
 
 ---
