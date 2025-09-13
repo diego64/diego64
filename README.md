@@ -12,7 +12,7 @@
 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react" />
   </a>
 </p>
 
